@@ -10,14 +10,17 @@ You can download the executable files from the [releases](https://github.com/leg
 1. **Windows**:
    - Download the `x64` release.
    - Navigate to the folder where you downloaded the executable.
+   - Extract the zip file
    - Run the application by double-clicking on the .exe file.
 2. **MacBook**:
    - Download the `arm64` release.
    - Navigate to the folder where you downloaded the executable.
+   - Extract the zip file
    - Run the application by double-clicking on the .exe file.
 3. **Linux**:
    - Download the `linux-x64` release.
    - Navigate to the folder where you downloaded the executable.
+   - Extract the zip file
    - Run the application by double-clicking on the .exe file.
 
 ## Features 
