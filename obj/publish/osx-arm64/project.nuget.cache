@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q809fOQ/iwU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aryan\\OneDrive - Thomas More\\Y2Sem1\\ProgrammingAdvanced\\PersonalProjects\\wordle\\wordle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aryan\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.8\\microsoft.net.illink.tasks.8.0.8.nupkg.sha512",
+    "C:\\Users\\aryan\\.nuget\\packages\\microsoft.netcore.app.runtime.osx-arm64\\8.0.8\\microsoft.netcore.app.runtime.osx-arm64.8.0.8.nupkg.sha512",
+    "C:\\Users\\aryan\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.osx-arm64\\8.0.8\\microsoft.aspnetcore.app.runtime.osx-arm64.8.0.8.nupkg.sha512",
+    "C:\\Users\\aryan\\.nuget\\packages\\microsoft.netcore.app.host.osx-arm64\\8.0.8\\microsoft.netcore.app.host.osx-arm64.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
