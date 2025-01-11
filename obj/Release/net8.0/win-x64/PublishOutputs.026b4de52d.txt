@@ -1,2 +1,0 @@
-C:\Users\aryan\OneDrive - Thomas More\Y2Sem1\ProgrammingAdvanced\PersonalProjects\wordle\bin\Release\net8.0\win-x64\app.publish\wordle.pdb
-C:\Users\aryan\OneDrive - Thomas More\Y2Sem1\ProgrammingAdvanced\PersonalProjects\wordle\bin\Release\net8.0\win-x64\app.publish\wordle.exe

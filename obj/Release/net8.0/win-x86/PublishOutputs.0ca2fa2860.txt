@@ -1,2 +1,0 @@
-C:\Users\aryan\Downloads\wordlecsharp\x86\wordle.pdb
-C:\Users\aryan\Downloads\wordlecsharp\x86\wordle.exe

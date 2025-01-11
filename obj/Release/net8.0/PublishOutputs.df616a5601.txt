@@ -1,5 +1,0 @@
-C:\Users\aryan\Downloads\wordlecsharp\x64\wordle.exe
-C:\Users\aryan\Downloads\wordlecsharp\x64\wordle.dll
-C:\Users\aryan\Downloads\wordlecsharp\x64\wordle.deps.json
-C:\Users\aryan\Downloads\wordlecsharp\x64\wordle.runtimeconfig.json
-C:\Users\aryan\Downloads\wordlecsharp\x64\wordle.pdb
